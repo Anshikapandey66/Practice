@@ -2,7 +2,7 @@
 
 This repository contains basic Python programs based on loops.
 
-## Programs Included
+## Programs Including 
 
 1. Print numbers from 1 to 10
 2. Multiplication table
