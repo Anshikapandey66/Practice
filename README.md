@@ -11,7 +11,7 @@ This repository contains basic Python programs based on loops.
 
 ## Concepts Used
 
-- for loop
+- for loop.   
 - while loop
 - if-else
 - Arithmetic operators
